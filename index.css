@@ -69,6 +69,11 @@ p.text {
   width: 600px;
 }
 
+.bold-white {
+  color: white;
+  font-weight: bold;
+}
+
 ul {
   list-style: none;
   margin-left: 50px;
@@ -340,4 +345,12 @@ a.project-link {
 }
 a.project-link:hover {
   color: #48aab5;
+}
+
+.text-box {
+  width: 400px;
+}
+.text-box p {
+  font-weight: 500;
+  font-size: 1.1rem;
 }
